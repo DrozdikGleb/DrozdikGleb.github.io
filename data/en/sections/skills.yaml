@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Machine Learning
+  icon: "/images/sections/skills/ml.png"
+  summary: "Main field of my professional development. "
+  url: "https://en.wikipedia.org/wiki/Linux"
+
+- name: Natural Language Processing
+  icon: "/images/sections/skills/nlp.png"
+  summary: "Most experienced in this subfield of machine learning. Implement topic modeling, sentence clusterization, Q&A systems, Intent Classification, Sentence Generation models, e t.c."
+  url: "https://en.wikipedia.org/wiki/Natural_language_processing"
+
+- name: Python Development
+  icon: "/images/sections/skills/python.png"
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program. Write a lot of scraping scripts for dataset collections"
+  url: "https://www.python.org/"
+
+- name: Java
+  icon: "/images/sections/skills/java.png"
+  summary: "Implement backend and mobile apps. Use it to write and maintain high-load systems."
+  url: "https://www.java.com/"
+
+- name: PyTorch
+  icon: "/images/sections/skills/pytorch.png"
+  summary: "Implement and fine-tune a lot of Deep Learning models, such as Generative Adversial Networks, transformers, BERT, GPT-2."
+  url: "https://pytorch.org/"
+
+- name: Linux
+  icon: "/images/sections/skills/linux.png"
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts. Work with ML models on remote machines"
+  url: "https://en.wikipedia.org/wiki/Linux"
+

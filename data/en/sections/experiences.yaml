@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: iPavlov.ai
+    url: "http://ipavlov.ai/"
+    location: Moscow
+    # company overview
+    overview: iPavlov is the global project for conversational artificial intelligence research and development, performed by the Neural Networks and Deep Learning Lab of Moscow Institute of Physics and Technology (MIPT) and supported by the National Technological Initiative (NTI) and PJSC Sberbank.
+  positions:
+  - designation: Data Scientist
+    start: Septermber 2020
+    responsibilities:
+    - Classify banks chat-bot messages.
+    - Apply Topic modeling to cluster messages which cannot be classified by existing classes.
+
+- company:
+    name: JetBrains
+    url: "https://www.jetbrains.com/"
+    location: Saint-Petersburg
+    overview: JetBrains is software development company whose tools are targeted towards software developers and project managers
+  positions:
+  - designation: Machine Learning Engineer Intern
+    start: February 2020
+    end: September 2020
+    responsibilities:
+    - Research GitHub issues landscape using Topic Modelling.
+    - Implement tool which set tag/topic for files with source code.
+
+- company:
+    name: JetBrains
+    url: "https://www.jetbrains.com/"
+    location: Saint-Petersburg
+    overview: Jetbrains is software development company whose tools are targeted towards software developers and project managers
+  positions:
+  - designation: Software Engineer Intern
+    start: February 2019
+    end: December 2019
+    responsibilities:
+    - Develop HTTP Client plugin for IntelliJ-based products..
+    - Implement inspections and quick fixes for PHPStorm.
+
+- company:
+    name: Sberbank-Technology
+    url: "https://sber-tech.com/"
+    location: Saint-Petersburg
+    overview: IT subsidiary of Sberbank of Russia, the largest bank in Russia, Central and Eastern Europe.
+  positions:
+  - designation: QA Engineer
+    start: July 2018
+    end: December 2018
+    responsibilities:
+    - Develop automated tests and test suites.
+    - Test REST Services, WEB applications.

@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: GitHub issues landscape
+  logo: /images/sections/projects/github.png
+  role: Owner
+  timeline: "February 2020 - July 2020"
+  repo: https://github.com/DrozdikGleb/issues_landscape # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Research GitHub issues landscape using Topic Modelling.
+  tags: ["professional"]
+
+- name: Stock Prediction Models
+  role: Researcher
+  timeline: "February 2019 - June 2019"
+  repo: https://github.com/DrozdikGleb/Stock-Predictions-ML
+  summary: Implement DL models, which predict stock prices for Russian companies, such as Sberbank, Gazprom.
+  tags: ["academic"]
+
+- name: Graph Convolutions in GAN
+  role: Researcher
+  timeline: "November 2019 - June 2020"
+  url: https://yadi.sk/d/W7zIKy8Wjl0M_g
+  summary: Apply graph convolution networks in GAN for dataset processing in clas- sification tasks. Paper currently is under review...
+  tags: ["academic"]
+
+- name: HTTP Client
+  logo: /images/sections/projects/jetbrains.png
+  role: Developer
+  timeline: "February 2019 - August 2019"
+  url: https://plugins.jetbrains.com/plugin/13121-http-client
+  summary: Plugin for JetBrains IDEs, which provides the ability to compose and execute HTTP requests from the code editor.
+  tags: ["professional"]
+
+- name: Naipe
+  logo: /images/sections/projects/naipe.png
+  role: Developer
+  timeline: "September 2018 - December 2018"
+  url: https://play.google.com/store/apps/details?id=com.glebdrozdov.apps.naipe
+  summary: Mobile assistant for beauty salons
+  tags: ["hobby"]
+
+- name: Few-Shot Intent Classification
+  role: Owner
+  timeline: "September 2020 - Present"
+  repo: https://github.com/DrozdikGleb/Few-Shot-Intent-Classification
+  summary: Implement Intent Classification for chat-bots in case of limited train data.
+  tags: ["academic"]
+

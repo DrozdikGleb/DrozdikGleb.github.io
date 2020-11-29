@@ -1,0 +1,49 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Scientist
+# your company information
+company:
+  name: iPavlov.ai
+  url: "http://ipavlov.ai/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate data scientist who wants to make our world a better place using Artificial Intelligence.
+I`ve worked several years as a backend developer, implemented more than 10 projects on freelance and now I plunge into Data Science and everything related to it.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/DrozdikGleb"
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/drozdik"
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://telegram.me/drozdov_gleb"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Python
+  percentage: 100
+  color: blue
+- name: ML
+  percentage: 90
+  color: green
+- name: Java
+  percentage: 80
+  color: yellow

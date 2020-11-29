@@ -1,0 +1,18 @@
+# some information about you
+name: "Gleb Drozdov"
+nickname: "Gleb"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/gleb.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "drozdov.gleb.spb@gmail.com"
+  phone: "+79811569633"
+
+# some summary about what you do
+summary:
+- I am a Data Scientist
+- I am a Master student in ITMO University
+- I love statistics
+- I work on several NLP projects
+- I love coming up with new ideas
