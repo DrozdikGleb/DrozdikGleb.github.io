@@ -58,7 +58,7 @@ params:
   logo:
     main: /images/site/main-logo.png
     inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    favicon: /images/site/bird.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
