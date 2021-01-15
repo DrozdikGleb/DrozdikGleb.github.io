@@ -39,8 +39,8 @@ projects:
 - name: Graph Convolutions in GAN
   role: Researcher
   timeline: "November 2019 - June 2020"
-  url: https://yadi.sk/d/W7zIKy8Wjl0M_g
-  summary: Apply graph convolution networks in GAN for dataset processing in clas- sification tasks. Paper currently is under review...
+  url: https://dl.acm.org/doi/fullHtml/10.1145/3437802.3437818
+  summary: Graph Convolutional Network Based Generative Adversarial Networks for the Algorithm Selection Problem in Classification
   tags: ["academic"]
 
 - name: HTTP Client
