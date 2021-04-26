@@ -11,8 +11,8 @@ section:
 designation: Data Scientist
 # your company information
 company:
-  name: iPavlov.ai
-  url: "http://ipavlov.ai/"
+  name: SberBank
+  url: "https://www.sberbank.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
