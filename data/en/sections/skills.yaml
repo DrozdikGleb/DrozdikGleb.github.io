@@ -27,7 +27,7 @@ skills:
   url: "https://www.python.org/"
 
 - name: MLOps and Data Engineering
-  summary: "Have a big experience with tools such as Spark, Hadoop, Airflow, Grafana, MLFlow"
+  summary: "Have a big experience with tools such as Spark, Hadoop, Airflow, Kafka, Grafana, MLFlow"
   url: "https://en.wikipedia.org/wiki/MLOps"
 
 - name: Java

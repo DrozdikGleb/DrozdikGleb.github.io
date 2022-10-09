@@ -15,7 +15,7 @@ company:
   url: "https://corp.ozon.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/resume_10_2022.pdf"
 
 # a summary about you
 summary: 'I am a passionate data scientist who wants to make our world a better place using Artificial Intelligence.
