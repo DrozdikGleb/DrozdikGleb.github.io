@@ -8,18 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Scientist
+designation: Machine Learning Team Lead
 # your company information
 company:
-  name: SberBank
-  url: "https://www.sberbank.com/"
+  name: Ozon
+  url: "https://corp.ozon.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate data scientist who wants to make our world a better place using Artificial Intelligence.
-I`ve worked several years as a backend developer, implemented more than 10 projects on freelance and now I plunge into Data Science and everything related to it.'
+I`ve worked 5 years as Data Scientist and implemented more than 10 AI projects.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -38,12 +38,15 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Python
+- name: Machine Learning
   percentage: 100
-  color: blue
-- name: ML
-  percentage: 90
   color: green
-- name: Java
+- name: MLOps
+  percentage: 90
+  color: orange
+- name: Python
   percentage: 80
+  color: blue
+- name: Java
+  percentage: 70
   color: yellow

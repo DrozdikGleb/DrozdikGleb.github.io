@@ -26,6 +26,10 @@ skills:
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program. Write a lot of scraping scripts for dataset collections"
   url: "https://www.python.org/"
 
+- name: MLOps and Data Engineering
+  summary: "Have a big experience with tools such as Spark, Hadoop, Airflow, Grafana, MLFlow"
+  url: "https://en.wikipedia.org/wiki/MLOps"
+
 - name: Java
   icon: "/images/sections/skills/java.png"
   summary: "Implement backend and mobile apps. Use it to write and maintain high-load systems."

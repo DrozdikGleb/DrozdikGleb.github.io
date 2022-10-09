@@ -11,6 +11,38 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Ozon
+    url: "https://corp.ozon.com/"
+    location: Moscow
+    # company overview
+    overview: Ozon is a leading market player and one of the most valuable Russian internet companies, according to Forbes.
+  positions:
+    - designation: Machine Learning Team Lead
+      start: August 2022
+      responsibilities:
+        - Develop microservice architecture for real-time matching
+        - Implement algorithms for finding products which are not represented on the marketplace
+        - Optimize production pipelines
+        - Leading a team of 6 ML engineers
+        - Communications with customers
+
+- company:
+    name: Ozon
+    url: "https://corp.ozon.com/"
+    location: Moscow
+    # company overview
+    overview: Ozon is a leading market player and one of the most valuable Russian internet companies, according to Forbes.
+  positions:
+    - designation: Machine Learning Engineer
+      start: September 2021
+      end: August 2022
+      responsibilities:
+        - Develop ML Matching algorithms, which find the same products from a competitor marketplace.
+        - Implement several ML model for products matching with precision 95% and recall 25%
+        - Train and integrate in pipeline several NLP models (BERT, fasttext, BM25)
+        - Implement a lot of algorithms analytics in Grafana and Slack
+
+- company:
     name: SberBank
     url: "https://www.sberbank.com/"
     location: Saint-Petersburg
@@ -19,6 +51,7 @@ experiences:
   positions:
     - designation: Data Scientist
       start: April 2021
+      end: September 2021
       responsibilities:
         - Implement Recommendation System based on client-manager dialogs
 

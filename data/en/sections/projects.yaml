@@ -21,6 +21,14 @@ buttons:
 
 # your projects
 projects:
+- name: Brandy
+  logo: /images/sections/projects/brandy_logo.png
+  role: CTO
+  timeline: "February 2021 - Present"
+  repo: https://brandy.ink/en
+  summary: AI based platform which allows you to create logos in seconds using only a description.
+  tags: ["professional"]
+
 - name: GitHub issues landscape
   logo: /images/sections/projects/github.png
   role: Owner
